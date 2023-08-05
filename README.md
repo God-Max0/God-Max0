@@ -31,8 +31,11 @@
 
 ###
 ---
+<center>
 [![](https://visitcount.itsvg.in/api?id=God-max0&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</center>
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=God-Max0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=God-Max" height="140" alt="stats graph"  />
