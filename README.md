@@ -35,7 +35,7 @@
   <img src="https://streak-stats.demolab.com?user=God-Max0&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=God-Max0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=God-Max" height="140" alt="languages graph"  />
 </div>
-div align="center">
+<div align="center">
   <img height="300" src="https://www.resimupload.org/images/2023/08/05/logo.jpg"  />
 </div>
 
