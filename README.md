@@ -1,4 +1,4 @@
-<h1 align="center">It Doesn't Matter Who I Am God-Max</h1>
+<h2 align="center">It Doesn't Matter Who I Am; God-Max</h2>
 
 
 # 💻 Tech Stack:
