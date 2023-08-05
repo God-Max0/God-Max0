@@ -1,6 +1,5 @@
 <h1 align="center">It Doesn't Matter Who I Am God-Max</h1>
 
-+++++++++++++++++++++++++++++
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
